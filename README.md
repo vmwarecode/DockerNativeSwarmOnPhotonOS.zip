@@ -1,1 +1,0 @@
-# DockerNativeSwarmOnPhotonOS.zip
